@@ -1,0 +1,3 @@
+cryptowatch_api_url: https://api.cryptowat.ch/markets/kraken/btcusd/price
+discord_webhook_url: https://discordapp.com/api/webhooks/924190443674157086/yH9Ta4eBaCmC-EXyNxeVfLMl-IKJLlox_DCLMx6d6g0xb6q1l5xl13uALnz42uN1WSKK
+datastore_price_db: ./data/db_price_history
